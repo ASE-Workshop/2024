@@ -5,6 +5,7 @@ nav: true
 
 ### Überblick der bisherigen Workshops:
 
+- [20. Workshop ASE, SE 2023 in Paderborn](https://ase-workshop.github.io/2023/)
 - [19. Workshop ASE, SE 2022 in Berlin](https://ase-workshop.github.io/2022/)
 - [18. Workshop ASE, SE 2021 in Braunschweig](https://ase-workshop.github.io/2021/)
 - [17. Workshop ASE, SE 2020 in Innsbruck](https://sites.google.com/view/ase2020/home)
