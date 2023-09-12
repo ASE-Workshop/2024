@@ -25,7 +25,7 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 ## Organisation
 
 [Prof. Dr. Stefan Kugele](https://www.thi.de/suche/mitarbeiter/stefan-kugele/), Technische Hochschule Ingolstadt<br/> 
-[Prof. Dr. LFranz Wotawa](https://www.tugraz.at/institute/ist/research/group-wotawa), Technische Universität Graz<br/>
+[Prof. Dr. Franz Wotawa](https://www.tugraz.at/institute/ist/research/group-wotawa), Technische Universität Graz<br/>
 
 
 Die Organisation erfolgt in enger Abstimmung mit der [GI-Fachgruppe Automotive Software Engineering](http://fg-ase.gi.de/), die den ASE-Workshop seit vielen Jahren veranstaltet. 
