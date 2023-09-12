@@ -3,11 +3,11 @@ title: Programm
 nav: true
 ---
 
-Der ASE Workshop 2023 wird im Heinz Nizdorf Forum(HNF),  Fürstenallee 7, 33102 Paderborn, im Seminarraum S5 stattfinden.
+Der ASE Workshop 2024 findet am Uni Center am Hauptcampus der Johannes Kepler Universität Linz statt: Altenberger Straße 69, 4040 Linz, Österreich.
 Im Folgenden finden Sie einen Überblick über das Programm. 
 
 
-### Programm (20.02.2023)
+### Programm (26.02.2024)
 
 <head>
 <!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
