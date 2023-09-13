@@ -4,8 +4,9 @@ nav: true
 ---
 __Programmkomitee__
 
+TBA
 
-Dr. Christian Allmann, Audi AG\
+[Dr. Christian Allmann, Audi AG\
 Prof. Dr. Marcel Baunach, Technische Universität Graz\
 Prof. Dr. Lenz Belzner, Technische Hochschule Ingolstadt\
 Dr. Mirko Conrad, samoconsult GmbH\
@@ -24,4 +25,4 @@ Prof. Dr. Holger Schlingloff, Humboldt Universität und Fraunhofer FOKUS, Berlin
 Prof. Dr. Jörn Schneider, Hochschule Trier\
 Prof. Dr. Ramin Tavakoli, Technische Hochschule Nürnberg\
 Dr. Thomas Vogel, Humboldt Universität zu Berlin\
-Prof. Dr. Andreas Vogelsang, Universität zu Köln\
+Prof. Dr. Andreas Vogelsang, Universität zu Köln\]:#
