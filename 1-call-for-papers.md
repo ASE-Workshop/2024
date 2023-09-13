@@ -21,18 +21,18 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 - Basissoftware und Systemdienste
 
 
-Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/conferences/?conf=ase2023). 
+Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/my/conference?conf=ase2024). 
 
 __Wichtige Termine__\
-Einreichungsfrist: ~~02.12.2022~~16.12.2022\
-Benachrichtigungen: 16.01.2023\
-Finale Version: 30.01.2023 
+Einreichungsfrist: TBA\
+Benachrichtigungen: TBA\
+Finale Version: TBA 
 
 
 Einreichungen können auf Deutsch oder Englisch erfolgen.
 
-Ferner sind die [GI LNI Formatvorlagen](https://gi.de/service/publikationen/lni#panel-2270-0) (1-spaltiges A4-Format) zu beachten. Alle Einreichungen werden einem Peer Review durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden im Workshopband der SE 2023 veröffentlicht. Für angenommene Einreichungen wird von mindestens einem der Autoren eine Registrierung für den Workshop erwartet. 
+Ferner sind die [GI LNI Formatvorlagen](https://github.com/gi-ev/LNI) (1-spaltiges A4-Format) zu beachten. Alle Einreichungen werden einem Peer Review durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden im Workshopband der SE 2024 veröffentlicht. Für angenommene Einreichungen wird von mindestens einem der Autoren eine Registrierung für den Workshop erwartet. 
 
-Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: ase2023@easychair.org
+Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: ase2024@easychair.org
 
-Der CfP ist auch als [PDF-Dokument](https://github.com/ASE-Workshop/2023/raw/main/images/ASE2023-WorkshopCfP.pdf) verfügbar. 
+Der CfP ist auch als [PDF-Dokument](https://github.com/ASE-Workshop/2024/raw/main/images/ASE2024-WorkshopCfP.pdf) verfügbar. 
