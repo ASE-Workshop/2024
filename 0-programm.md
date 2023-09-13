@@ -37,9 +37,7 @@ table.GeneratedTable thead {
 </style>
 </head>
 
-
-[](
-<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
+[<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
 <table class="GeneratedTable">
   <thead>
     <tr>
@@ -133,5 +131,4 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
           <sup> Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken) </sup> <p></p>
       </td>
     </tr>  
-</table>
-)
+</table>]:#
