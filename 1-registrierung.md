@@ -3,5 +3,5 @@ title: Registrierung
 nav: true
 ---
 
-Eine Registrierung für den Workshop wird auf [Software Engineering 2023](https://se-2023.gi.de/)  Ende 2022 ermöglicht werden.  
+Eine Registrierung für den Workshop wird auf [Software Engineering 2024](https://se2024.se.jku.at) Ende 2023 ermöglicht werden.  
 
