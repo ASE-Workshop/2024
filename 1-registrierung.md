@@ -1,7 +1,6 @@
 ---
-title: Registrierung
+title: Registration
 nav: true
 ---
 
-Eine Registrierung für den Workshop wird auf [Software Engineering 2024](https://se2024.se.jku.at) Ende 2023 ermöglicht werden.  
-
+Registration for the workshop will be made possible at [Software Engineering 2024](https://se2024.se.jku.at) in late 2023. 
