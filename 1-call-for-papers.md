@@ -3,36 +3,35 @@ title: Call for Papers
 nav: true
 ---
 
-In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Beiträge aus allen Bereichen der Entwicklung von Software für Automobile, Nutzfahrzeuge und deren Infrastruktur sind erwünscht. Beispiele für Themen sind:
+This workshop will discuss challenges and approaches to solutions in automotive software engineering. Contributions from all areas of software development for automobiles, commercial vehicles and their infrastructure are welcome. Examples of topics are:
 
-- Architekturen, Schnittstellen und Technologien für die Fahrzeugvernetzung
-- Architekturen und Methoden zur Entwicklung von Fahrerassistenz- und autonomen Fahrfunktionen
-- Apps im Fahrzeug
-- Big Data für intelligente Fahrzeuge
-- Entwicklungsprozesse für Software im Fahrzeug
-- Standardisierte Softwarekomponenten, sowie Baukästen für die Entwicklung von innovativen Applikationen
-- Varianten- und Konfigurationsmanagement
-- Evolution und die Aktualisierung von Software im Betrieb
-- Qualitätssicherung sowie Analyse der funktionalen und nicht-funktionalen Eigenschaften
-- Sicherheitsaspekte (Security und Safety)   
-- Verhaltensadaption auf Basis des Umgebungskontexts, z.B. des Fahrzeugs oder des Fahrers
-- Multimodale Mensch-Fahrzeug-Interaktion
+- Architectures, interfaces and technologies for vehicle networking
+- Architectures and methods for the development of driver assistance and automated driving functions
+- Apps in the vehicle
+- Big Data for intelligent vehicles
+- Development processes for in-vehicle software
+- Standardised software components, as well as construction kits for the development of innovative applications
+- Variant and configuration management
+- Evolution and updating of software in operation
+- Quality assurance and analysis of functional and non-functional properties
+- Safety aspects (security and safety)   
+- Behavioural adaptation based on the environmental context, e.g. of the vehicle or the driver
+- Multimodal human-vehicle interaction
 - E-mobility
-- Basissoftware und Systemdienste
+- Basic software and system services
+
+The submission for the workshop (6-12 pages) is made via the conference management system EasyChair at the following [link](https://easychair.org/conferences/?conf=ase2024). 
+
+__Important dates__\
+Submission deadline: TBA\
+Notifications: TBA\
+Final version: TBA 
 
 
-Die Einreichung für den Workshop (6-12 Seiten) erfolgt über das Konferenz-Management-System EasyChair unter folgendem [Link](https://easychair.org/my/conference?conf=ase2024). 
+Submissions can be made in English or German, whereas English is preferred.
 
-__Wichtige Termine__\
-Einreichungsfrist: TBA\
-Benachrichtigungen: TBA\
-Finale Version: TBA 
+Furthermore, the [GI LNI Format Templates](https://github.com/gi-ev/LNI) (1-column A4 format) must be followed. All submissions will be peer-reviewed by the programme committee. Accepted submissions will be published in the SE 2024 workshop proceedings. For accepted submissions, at least one of the authors is expected to register for the workshop. 
 
+In case of queries or problems, please contact by mail: ase2024@easychair.org
 
-Einreichungen können auf Deutsch oder Englisch erfolgen.
-
-Ferner sind die [GI LNI Formatvorlagen](https://github.com/gi-ev/LNI) (1-spaltiges A4-Format) zu beachten. Alle Einreichungen werden einem Peer Review durch das Programmkomitee unterzogen. Akzeptierte Beiträge werden im Workshopband der SE 2024 veröffentlicht. Für angenommene Einreichungen wird von mindestens einem der Autoren eine Registrierung für den Workshop erwartet. 
-
-Bei Rückfragen oder Problemen wenden Sie sich bitte per Mail an: ase2024@easychair.org
-
-Der CfP ist auch als [PDF-Dokument](https://github.com/ASE-Workshop/2024/raw/main/images/ASE2024-WorkshopCfP.pdf) verfügbar. 
+The CfP is also available as a [PDF document](https://github.com/ASE-Workshop/2024/raw/main/images/ASE2024-WorkshopCfP.pdf).
