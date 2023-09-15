@@ -2,24 +2,22 @@
 title: Home
 ---
 
-Willkommen zum 21. Workshop Automotive Software Engineering!
+Welcome to the 21st Workshop on Automotive Software Engineering!
 {: style="color:black; font-size: 180%; text-align: center;"}
 
-[Software Engineering 2024](https://se2024.se.jku.at) - 26.02.2024 - Linz, Österreich
+[Software Engineering 2024](https://se2024.se.jku.at) - 26.02.2024 - Linz, Austria
 {: style="color:gray; font-size: 130%; text-align: center;"}
 
-Beachten Sie die [Hinweise zur Teilnahme](https://ase-workshop.github.io/2024/1-registrierung.html)
+Please note the [instructions for participation](https://ase-workshop.github.io/2024/1-registrierung.html)
 {: style="color:gray; font-size: 130%; text-align: center;"}
 
 ## Motivation
-
-Wie seine Vorgänger setzt sich der 21. Workshop Automotive Software Engineering mit der Problematik der Softwareentwicklung im Automobilbereich und folglich mit dafür geeigneten Methoden, Techniken und Werkzeugen auseinander. Mit zunehmend vernetzten Fahrzeugen, modernen Fahrerassistenzfunktionen und den Herausforderungen des vollautomatisierten Fahrens spielt die Automobilsoftware heutzutage mehr denn je eine wichtige Rolle. Neben der stetig ansteigenden Komplexität müssen immer strengere Anforderungen an Zuverlässigkeit, Sicherheit (Security und Safety) und Datenschutz (Privacy) erfüllt werden. Weiterhin spielt die ablenkungsfreie und intuitive Bedienung der Fahrzeugapplikationen mittels Sprachsteuerung eine immer größere Rolle. Der Trend zur Vernetzung hat das Fahrzeug längst erreicht. Das Autofahren wird somit durch voranschreitende „digitale Kulturen“ verändert: Dienste wie WhatsApp, Skype oder sogar Facebook werden in naher Zukunft im Fahrzeug integriert sein und dann von den Nutzern während der Fahrt bedient werden können.  In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Insbesondere von Interesse ist der Einsatz agiler Methoden in einem regulierten Umfeld. Beiträge aus allen Bereichen der Entwicklung von Software für moderne Fahrzeuge sind erwünscht.
+Like its predecessors, the 21st Workshop on Automotive Software Engineering addresses the issue of software development in the automotive sector and, consequently, methods, techniques and tools suitable for it. With increasingly networked vehicles, modern driver assistance functions, and the challenges of fully automated driving, automotive software now plays a more critical role than ever. In addition to the ever-increasing complexity, ever-stricter requirements for reliability, security (safety and security) and data protection (privacy) must be met. Furthermore, the distraction-free and intuitive, multimodal operation of vehicle applications employing voice and gesture control is increasingly important. The trend towards networking has long since reached the vehicle. Driving is thus being changed by advancing "digital cultures": Value-added services (e.g. social media, streaming, office) will be integrated even more consistently in the vehicle and can then be operated by the users while driving. This workshop will discuss challenges and solution approaches of _Automotive Software Engineering_. Of particular interest is the use of agile methods in a regulated environment. Contributions from all areas of software development for modern vehicles are welcome.
 {: style="text-align: justify"}
 
+## Goals
 
-## Ziele
-
-In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive Software Engineering diskutiert. Beiträge aus allen Bereichen der Entwicklung von Software für moderne Fahrzeuge sind erwünscht. Der Workshop richtet sich gleichermaßen an Forscher:innen, Entwickler:innen und Anwender:innen aus der Automobilindustrie sowie an Wissenschaftler:innen aus Forschungsinstituten und Hochschulen, die im Gebiet Automotive Software Engineering arbeiten. Im Fokus stehen traditionell weniger theoretische, als vielmehr praxisnahe Arbeiten.
+This workshop will discuss challenges and approaches to solutions in automotive software engineering. Contributions from all areas of software development for modern vehicles are welcome. The workshop is aimed equally at researchers, developers, and users from the automotive industry, as well as scientists from research institutes and universities working in automotive software engineering. The focus is traditionally less on theoretical and more on practical work.
 {: style="text-align: justify"}
 
 ## Organisation
@@ -27,5 +25,4 @@ In diesem Workshop werden Herausforderungen und Lösungsansätze des Automotive 
 [Prof. Dr. Stefan Kugele](https://www.thi.de/suche/mitarbeiter/stefan-kugele/), Technische Hochschule Ingolstadt<br/> 
 [Prof. Dr. Franz Wotawa](https://www.tugraz.at/institute/ist/research/group-wotawa), Technische Universität Graz<br/>
 
-
-Die Organisation erfolgt in enger Abstimmung mit der [GI-Fachgruppe Automotive Software Engineering](http://fg-ase.gi.de/), die den ASE-Workshop seit vielen Jahren veranstaltet. 
+The organisation is closely coordinated with the [GI-Fachgruppe Automotive Software Engineering](http://fg-ase.gi.de/), which has been organising the ASE workshop for many years. 
