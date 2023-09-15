@@ -1,9 +1,9 @@
 ---
-title: Historie
+title: History
 nav: true
 ---
 
-### Überblick der bisherigen Workshops:
+### Overview of the previous workshops:
 
 - [20. Workshop ASE, SE 2023 in Paderborn](https://ase-workshop.github.io/2023/)
 - [19. Workshop ASE, SE 2022 in Berlin](https://ase-workshop.github.io/2022/)
