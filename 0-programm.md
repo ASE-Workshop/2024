@@ -1,18 +1,18 @@
 ---
-title: Programm
+title: Programmme
 nav: true
 ---
 
-Der ASE Workshop 2024 findet am Uni Center am Hauptcampus der Johannes Kepler Universität Linz statt: Altenberger Straße 69, 4040 Linz, Österreich.
-Im Folgenden finden Sie einen Überblick über das Programm. 
+The ASE Workshop 2024 will take place at the Uni Center on the main campus of the Johannes Kepler University Linz: Altenberger Straße 69, 4040 Linz, Austria.
+Below, you will find an overview of the programme. 
 
 
-### Programm (26.02.2024)
+### Programme (26.02.2024)
 
 TBA
 
-<head>
-<!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
+<!--head>
+<!-- CSS Code: Place this code in the document's head (between the 'head' tags) >
 <style>
 table.GeneratedTable {
   width: 100%;
@@ -37,7 +37,7 @@ table.GeneratedTable thead {
 </style>
 </head>
 
-[<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear -->
+[<!-- HTML Code: Place this code in the document's body (between the 'body' tags) where the table should appear >
 <table class="GeneratedTable">
   <thead>
     <tr>
@@ -131,4 +131,4 @@ Um alle Aspekte der funktionalen Sicherheit auch in einem DevOps Entwicklungspro
           <sup> Ort: HNI, Fürstenallee 11, F0.550 (Freiraum,mit Pizza und Getränken) </sup> <p></p>
       </td>
     </tr>  
-</table>]:#
+</table-->
