@@ -22,11 +22,10 @@ This workshop will discuss challenges and approaches to solutions in automotive 
 
 The submission for the workshop (6-12 pages) is made via the conference management system EasyChair at the following [link](https://easychair.org/conferences/?conf=ase2024). 
 
-__Important dates__\
-Submission deadline: TBA\
-Notifications: TBA\
-Final version: TBA 
-
+__Important dates__ (all AoE)\
+Submission deadline: October 27, 2023\
+Notifications: November 17, 2023\
+Final version: December 1, 2027
 
 Submissions can be made in English or German, whereas English is preferred.
 
