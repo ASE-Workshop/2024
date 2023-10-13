@@ -9,7 +9,7 @@ Klaus	Becker, Continental Automotive Technologies GmbH, Germany \
 Lenz	Belzner, Technische Hochschule Ingolstadt, Germany \
 Mirko	Conrad, samoconsult GmbH, Germany \
 Steffen	Helke, Fachhochschule Südwestfalen, Germany \
-Paula	Herber, Universität Münster, Germany
+Paula	Herber, Universität Münster, Germany \
 Thomas Kropf, Robert Bosch GmbH, Germany \
 Wolfgang Müller, Universität Paderborn, Germany \
 Ralf Reißing, Hochschule Coburg, Germany \
