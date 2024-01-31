@@ -105,4 +105,3 @@ table.GeneratedTable thead {
         <b>All</b>
         </td>
      </tr>
-</table>
