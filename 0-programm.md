@@ -73,9 +73,17 @@ table.GeneratedTable thead {
         <b>Janis Kröger and Martin Fränzle</b><br/>
         <sup>Carl von Ossietzky Universität Oldenburg</sup>
       </td>
-     </tr>  
-     <tr>
+     </tr>
+    <tr>
       <td>16:30-17:00</td>
+      <td>
+        <i>The Software-Defined Vehicle</i><br/>
+        <b>Daniel Grimm</b><br/>
+        <sub>Karlsruher Institut für Technologie, ITIV</sub>
+      </td>
+    </tr>
+     <tr>
+      <td>17:00-17:30</td>
       <td>
         <i>Testing of Autonomous Cars: Is it Feasible?</i><br/>
         <b>Christian Facchi</b><br/>
@@ -83,7 +91,7 @@ table.GeneratedTable thead {
       </td>
     </tr>
     <tr>
-      <td>17:00-17:30</td>
+      <td>17:30-18:00</td>
       <td>
         <i>Automotive Software Engineering: Quo Vadis?</i><br/>
         <b>Ralf Reißing</b><br/>
@@ -91,7 +99,7 @@ table.GeneratedTable thead {
         </td>
      </tr>  
     <tr>
-      <td>17:30-18:00</td>
+      <td>18:00-18:30</td>
       <td>
         <i>Annual meeting of the GI specialist group "Automotive Software Engineering"</i>
         <b>All workshop participans</b> <br/>
@@ -99,7 +107,7 @@ table.GeneratedTable thead {
         </td>
      </tr>  
     <tr>
-      <td>18:00-20:00</td>
+      <td>18:30-20:00</td>
       <td>
         <i>Relaxed Get Together</i><br/>
         <b>All</b>
