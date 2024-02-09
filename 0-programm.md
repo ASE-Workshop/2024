@@ -50,8 +50,10 @@ table.GeneratedTable thead {
     <tr>
       <td>14:15-15:00</td>
       <td>
-        <b>Keynote</b> <br/>
-          <sup> TBA </sup>
+        <b>Keynote</b><br/>
+        <i>AutoDevSafeOps: Integrated Development and Operation of Safe Automotive Systems</i><br/>
+        <b>Núria Mata</b><br/>
+        <sup>Fraunhofer Institute for Cognitive Systems IKS, Department Head Engineering for Software-defined Mobility</sup>
       </td>
     </tr>
     <tr>
