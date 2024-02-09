@@ -104,7 +104,7 @@ table.GeneratedTable thead {
       <td>18:00-18:30</td>
       <td>
         <i>Annual meeting of the GI specialist group "Automotive Software Engineering"</i>
-        <b>All workshop participans</b> <br/>
+        <b>All Workshop Participans</b> <br/>
         <sup>GI-Fachgruppe Automotive Software Engineering</sup>
         </td>
      </tr>  
